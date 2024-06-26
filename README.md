@@ -37,7 +37,7 @@ Agradecemos cualquier contribución a este proyecto de seguimiento de incidencia
 
 - **Sé Claro y Conciso**: Proporciona la mayor cantidad de detalles posible sin ser redundante.
 - **Revisa Issues Existentes**: Antes de crear una nueva issue, revisa los existentes para evitar duplicados.
-- **Respeta el Código de Conducta**: Este repositorio sigue un [Código de Conducta](./CODE_OF_CONDUCT.md). Por favor, léelo y respétalo en todas las interacciones.
+- **Respeta el Código de Conducta**: Este repositorio sigue un [Código de Conducta](https://github.com/fp-informatica/.github/blob/main/profile/CODE_OF_CONDUCT.md). Por favor, léelo y respétalo en todas las interacciones.
 
 ## Estado del Proyecto
 
